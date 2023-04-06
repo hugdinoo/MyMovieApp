@@ -1,0 +1,35 @@
+.slick-slide div {
+  outline: none !important;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  display: none;
+  width: 0 !important;
+  height: 0 !important;
+}
+.MuiCard-root {
+  overflow: inherit !important;
+}
+.MuiSelect-icon {
+  color: white !important;
+}
+.MuiPaginationItem-root {
+  color: white !important;
+}
+
+.MuiPaginationItem-outlinedPrimary.Mui-selected {
+  border: 1px solid #f9ab00 !important;
+}
+.MuiListItem-button:hover {
+  color: #f9ab00;
+}
+.MuiInput-underline:before {
+  border-bottom: 1px solid #5e5e56 !important;
+  color: white !important;
+}
+
+.MuiPopover-paper {
+  overflow-x: initial !important;
+  overflow-y: initial !important;
+}
